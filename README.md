@@ -1,10 +1,13 @@
 Vanguard-Faker
+
 About An example on how you can popup the error "VAN:RESTRICTION" & use some stuff even if it's detected on Valorant.
 
 Is this detected?
+
 Probably, you'll get temp banned after 1-3 game. that's why i stopped using it in the first place and switched to new methods. last time this project was used was 1-2 months ago.
 
 How to use?
+
 Download the .zip file.
 run the .slnx file
 add the fake exe nammed "vgc.exe" as bytes nammed "embadedExe" then uncomment the exe's part.
@@ -13,13 +16,17 @@ Run the code as administrator.
 Run the popup bypass and do the steps the app asks u to do
 once in the 5vs5 Screen use the Emulate Vanguard Choice & inject ur thingy after opening the game again
 after the match ends use the Match end Choice
+
+
 Disclaimer
 This project is provided for educational and research purposes only. Do not use this software in violation of any terms of service or applicable laws.
 
 Notice
 This project was originally developed and released by [Nvzdev0].
 
+
 It has been made available for free. If you obtained this tool from someone selling it, be aware that:
+
 
 This is a free method
 You do not need to pay for access
